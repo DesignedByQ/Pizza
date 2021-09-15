@@ -1,0 +1,23 @@
+body {
+    background-color: white;
+}
+
+.navigation {
+    border: 3px solid black;
+    background-color: red;
+    
+}
+
+a:link { 
+    color: black; 
+    background-color: transparent; 
+    text-decoration: none; 
+}
+
+.foot {
+    background-color: red;
+}
+
+.card {
+    width: 300px;
+}
